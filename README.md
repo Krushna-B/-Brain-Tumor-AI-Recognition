@@ -36,7 +36,7 @@ A deep learning project for binary classification of brain MRI images into **tum
 
 ---
 
-## 📈 Example Plots
+<!-- ## 📈 Example Plots
 
 | Confusion Matrix                                  | ROC Curve                           |
 | ------------------------------------------------- | ----------------------------------- |
@@ -48,6 +48,6 @@ A deep learning project for binary classification of brain MRI images into **tum
 
 | Training Loss                               | Model Outputs                         |
 | ------------------------------------------- | ------------------------------------- |
-| ![Training Loss](results/training_loss.png) | ![Outputs](results/outputs_curve.png) |
+| ![Training Loss](results/training_loss.png) | ![Outputs](results/outputs_curve.png) | -->
 
 ---
