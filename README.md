@@ -38,16 +38,16 @@ A deep learning project for binary classification of brain MRI images into **tum
 
 ## 📈 Example Plots
 
-| Confusion Matrix                          | ROC Curve                   |
-| ----------------------------------------- | --------------------------- |
-| ![Confusion Matrix](confusion_matrix.png) | ![ROC Curve](roc_curve.png) |
+| Confusion Matrix                                  | ROC Curve                           |
+| ------------------------------------------------- | ----------------------------------- |
+| ![Confusion Matrix](results/confusion_matrix.png) | ![ROC Curve](results/roc_curve.png) |
 
-| Validation AUC                       | Accuracy Curves                  |
-| ------------------------------------ | -------------------------------- |
-| ![Validation AUC](val_auc_curve.png) | ![Accuracy](accuracy_curves.png) |
+| Validation AUC                               | Accuracy Curves                          |
+| -------------------------------------------- | ---------------------------------------- |
+| ![Validation AUC](results/val_auc_curve.png) | ![Accuracy](results/accuracy_curves.png) |
 
-| Training Loss                       | Model Outputs                 |
-| ----------------------------------- | ----------------------------- |
-| ![Training Loss](training_loss.png) | ![Outputs](outputs_curve.png) |
+| Training Loss                               | Model Outputs                         |
+| ------------------------------------------- | ------------------------------------- |
+| ![Training Loss](results/training_loss.png) | ![Outputs](results/outputs_curve.png) |
 
 ---
